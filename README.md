@@ -25,5 +25,17 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 </a>
+<img src="icons/html.png" width="50"/>
+<img src="icons/css.png" width="50"/>
+<img src="icons/javascript.png" width="50"/>
+<img src="icons/npm.png" width="50"/>
+<img src="icons/vite.png" width="50"/>
+<img src="icons/nodejs.png" width="50"/>
+<img src="icons/c.png" width="50"/>
+<img src="icons/Net.png" width="50"/>
+<img src="icons/git.png" width="50"/>
+<img src="icons/github.png" width="50"/>
+<img src="icons/sql.png" width="50"/>
+<img src="icons/sql-server.png" width="50"/>
 
 </div>
