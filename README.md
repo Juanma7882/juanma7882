@@ -11,7 +11,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-👨🏻‍💻 About me\
+
 👨‍💻 I'm currently putting together projects to show my knowledge of the languages ​​I speak and improving my English\
 💡 I like exploring new technologies and developing software solutions and quick hacks.\
 🎓 I am currently studying a programming degree at the National Technological University.\
