@@ -8,9 +8,8 @@
 
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+##  About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 👨‍💻 I'm currently working on projects to showcase my knowledge of the programming languages I use while also improving my English.
 - 💡  I enjoy exploring new technologies and developing software solutions and quick hacks.
