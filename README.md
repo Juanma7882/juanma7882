@@ -37,4 +37,5 @@
 <img src="icons/sql.png" width="50"/>
 <img src="icons/sql-server.png" width="50"/>
 
+<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg">
 </div>
