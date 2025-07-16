@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Fernandez Juan </b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><b>Hi , I'm Fernandez Juan </b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
 
 
 <p align="center">
