@@ -10,9 +10,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Student+of+The+UTN;Always+learning+new+things"></a>
 </p>
 
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-	
 ##  About me
+
 
 
 - 👨‍💻I am currently working on several projects while improving my English.
@@ -43,3 +44,10 @@
 
 <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg">
 </div>
+
+## 🔥 Mis estadísticas 🔥
+
+| Lenguajes | Stats |
+|-----------|-------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma7882&layout=compact&theme=radical) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanma7882&show_icons=true&theme=radical) |
+
