@@ -1,4 +1,8 @@
 
+<img width="1536" height="617" alt="Escena nocturna2" src="https://github.com/user-attachments/assets/78acb7aa-7a14-4474-85aa-84baa9a78491" />
+
+
+
 <h1 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><b>Hi , I'm Fernandez Juan </b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
 
 
