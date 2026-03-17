@@ -1,5 +1,5 @@
 
-<img width="1536" height="617" alt="Escena nocturna2" src="https://github.com/user-attachments/assets/78acb7aa-7a14-4474-85aa-84baa9a78491" />
+<img width="1536" height="381" alt="Escena nocturna3" src="https://github.com/user-attachments/assets/73f7f3b6-2a81-4bc3-887f-39ac66e9a60a" />
 
 
 
