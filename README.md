@@ -51,3 +51,11 @@
 |-----------|-------|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma7882&layout=compact&theme=radical) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanma7882&show_icons=true&theme=radical) |
 
+
+
+
+![pasto](https://github.com/user-attachments/assets/32987911-08ce-440f-afc8-d03fde1539da)
+    
+
+
+
