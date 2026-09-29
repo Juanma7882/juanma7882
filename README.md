@@ -3,11 +3,11 @@
 
 
 
-<h1 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><b>Hi , I'm Fernandez Juan </b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><b>Hi , I'm Juan Fernandez </b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Student+of+The+UTN;Always+learning+new+things"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F700&background=FFFFFF00&width=435&lines=Always+learning+new+things;I+am+a+DevSecOps+professional" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
