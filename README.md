@@ -12,7 +12,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## About me
+## About m
 
 * 💖 I am passionate about cybersecurity, building systems, trying to break them, and understanding how they work.
 * 👨‍💻 I currently work independently on software development, automation, and cybersecurity-related projects.
