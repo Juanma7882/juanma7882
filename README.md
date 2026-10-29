@@ -35,16 +35,6 @@ I'm a **full stack developer** from **Buenos Aires, Argentina** 🇦🇷. My fav
 
 ---
 
-<img width="100%" alt="Experience" src="assets/section-experience.svg" />
-
-| Role | Company | Period | Highlights |
-|------|---------|--------|------------|
-| **C# / .NET Core Developer** | MAE Software | Sep 2026 – Present | ERPs and clinic systems · role-based auth, input validation, rate limiting, protection of patient data |
-| **Full-Stack Developer** | Biyonder | Feb 2026 – Aug 2026 | Offline-capable POS (Ionic/Capacitor + Supabase, ARCA e-invoicing) · VPS with Docker Compose, PostgreSQL, automated backups, n8n |
-| **Freelance Web Developer** | Remote | Sep 2024 – Jan 2026 | E-commerce and landing pages from Figma, GSAP/CSS animations |
-
----
-
 <img width="100%" alt="Tech Stack" src="assets/section-stack.svg" />
 
 #### 🖥️ Frontend
@@ -107,10 +97,11 @@ I'm a **full stack developer** from **Buenos Aires, Argentina** 🇦🇷. My fav
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Juanma7882&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=Juanma7882&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma7882&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=Juanma7882&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Juanma7882&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Juanma7882&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 
@@ -125,3 +116,9 @@ I'm a **full stack developer** from **Buenos Aires, Argentina** 🇦🇷. My fav
 </div>
 
 <img width="100%" alt="Pasto" src="https://github.com/user-attachments/assets/32987911-08ce-440f-afc8-d03fde1539da" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juanma7882/juanma7882/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juanma7882/juanma7882/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/Juanma7882/juanma7882/output/github-contribution-grid-snake-dark.svg" />
+</picture>
