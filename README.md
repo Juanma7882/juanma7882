@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<h1 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><b>Hi , I'm Juan Fernandez </b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
+<h1 align="center"><b>Hi , I'm Juan Fernandez </b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7F700&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%7C+C%23+%26+JavaScript;.NET+Developer+%40+MAE+Software;Secure+by+design+%F0%9F%94%90;Learning+Blue+Team+%26+SOC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Design+Secure+Applications" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://juan-fernandez.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
