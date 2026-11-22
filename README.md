@@ -26,7 +26,7 @@
 
 I'm a **full stack developer** from **Buenos Aires, Argentina** 🇦🇷. My favorite languages are **C#** and **JavaScript**, and I build software designed to be secure from day one.
 
-- 💼 **C# / .NET Core Developer** at **MAE Software** — ERPs and management systems (including clinics) with .NET, Entity Framework and SQL Server.
+
 - 🔐 Expanding into **cybersecurity** — Blue Team, SOC and secure development. I train on hands-on labs and bring what I learn back into the systems I build.
 - 🕹️ I also enjoy hardware — especially **retro hardware**.
 
